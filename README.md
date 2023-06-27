@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# dz-highlight
+
+[![Build status](https://ci.appveyor.com/api/projects/status/5ev54eme9qy9wo82?svg=true)](https://ci.appveyor.com/project/pvova21/dz-highlight)
+
+## [GitHub Pages](https://pvova21.github.io/dz-highlight/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
